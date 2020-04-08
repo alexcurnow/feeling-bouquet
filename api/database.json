@@ -32,35 +32,63 @@
       "city": "Boston",
       "state": "MA",
       "address": "432 Flower Power St",
-      "id": 1
+      "id": 1,
+      "distributorId": 3
     },
     {
       "businessName": "Roses Are People Too",
       "city": "Absecon",
       "state": "NJ",
       "address": "9276 People Flower Rd",
-      "id": 2
+      "id": 2,
+      "distributorId": 1
     },
     {
       "businessName": "Wilt",
       "city": "San Francisco",
       "state": "CA",
       "address": "100 Posh Ave",
-      "id": 3
+      "id": 3,
+      "distributorId": 2
     },
     {
       "businessName": "Love-me-not",
       "city": "Nashville",
       "state": "TN",
       "address": "66 Heartbreak Pl",
-      "id": 4
+      "id": 4,
+      "distributorId": 1
     },
     {
       "businessName": "Rodney's Drug Front",
       "city": "Atlantic City",
       "state": "NJ",
       "address": "212 Don't Look Dr",
-      "id": 5
+      "id": 5,
+      "distributorId": 2
+    }
+  ],
+  "distributors": [
+    {
+      "businessName": "The Flower Dump",
+      "city": "Louisville",
+      "state": "KY",
+      "address": "2948 Street Rd",
+      "id": 1
+    },
+    {
+      "businessName": "Pollen Does NOT Suck!",
+      "city": "Chattanooga",
+      "state": "TN",
+      "address": "76 Pedal Dr",
+      "id": 2
+    },
+    {
+      "businessName": "Flower Power",
+      "city": "San Diego",
+      "state": "CA",
+      "address": "555 Hwy 101",
+      "id": 3
     }
   ]
 }

@@ -2,6 +2,7 @@ import { getFlowers } from './flowers/flowerProvider.js'
 import { FlowerList } from './flowers/FlowerList.js'
 import { getRetailers } from './retailers/retailerProvider.js'
 import { RetailerList } from './retailers/RetailerList.js'
+import { getDistributors } from './distributors/distributorProvider.js'
 
 getFlowers().then(FlowerList)
-getRetailers().then(RetailerList)
+getRetailers().then(getDistributors).then(RetailerList)
