@@ -90,5 +90,111 @@
       "address": "555 Hwy 101",
       "id": 3
     }
+  ],
+  "nurseries": [
+    {
+      "id": 1,
+      "name": "Baby Flower"
+    },
+    {
+      "id": 2,
+      "name": "I Sell Flowers"
+    },
+    {
+      "id": 3,
+      "name": "It's Flower not Flour"
+    },
+    {
+      "id": 4,
+      "name": "The Flower Nursery"
+    },
+    {
+      "id": 5,
+      "name": "The Babiest of Flowers"
+    }
+  ],
+  "nurseryFlower": [
+    {
+      "id": 1,
+      "nurseryId": 1,
+      "flowerId": 1
+    },
+    {
+      "id": 2,
+      "nurseryId": 1,
+      "flowerId": 2
+    },
+    {
+      "id": 3,
+      "nurseryId": 2,
+      "flowerId": 2
+    },
+    {
+      "id": 4,
+      "nurseryId": 2,
+      "flowerId": 3
+    },
+    {
+      "id": 5,
+      "nurseryId": 3,
+      "flowerId": 3
+    },
+    {
+      "id": 6,
+      "nurseryId": 3,
+      "flowerId": 4
+    },
+    {
+      "id": 7,
+      "nurseryId": 4,
+      "flowerId": 4
+    },
+    {
+      "id": 8,
+      "nurseryId": 4,
+      "flowerId": 5
+    },
+    {
+      "id": 9,
+      "nurseryId": 5,
+      "flowerId": 2
+    },
+    {
+      "id": 10,
+      "nurseryId": 5,
+      "flowerId": 3
+    }
+  ],
+  "distributorNursery": [
+    {
+      "id": 1,
+      "distributorId": 1,
+      "nurseryId": 1
+    },
+    {
+      "id": 2,
+      "distributorId": 1,
+      "nurseryId": 2
+    },
+    {
+      "id": 3,
+      "distributorId": 2,
+      "nurseryId": 3
+    },
+    {
+      "id": 4,
+      "distributorId": 2,
+      "nurseryId": 4
+    },
+    {
+      "id": 5,
+      "distributorId": 3,
+      "nurseryId": 5
+    },
+    {
+      "id": 6,
+      "distributorId": 3,
+      "nurseryId": 2
+    }
   ]
 }
