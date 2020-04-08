@@ -1,0 +1,66 @@
+{
+  "flowers": [
+    {
+      "commonName": "Goldenrod",
+      "color": "Yellow",
+      "id": 1
+    },
+    {
+      "commonName": "Cherokee Rose",
+      "color": "White",
+      "id": 2
+    },
+    {
+      "commonName": "Iris",
+      "color": "Purple",
+      "id": 3
+    },
+    {
+      "commonName": "Red Clover",
+      "color": "Dark Pink",
+      "id": 4
+    },
+    {
+      "commonName": "Forget-me-not",
+      "color": "blue",
+      "id": 5
+    }
+  ],
+  "retailers": [
+    {
+      "businessName": "Super Flower Shop USA 3000",
+      "city": "Boston",
+      "state": "MA",
+      "address": "432 Flower Power St",
+      "id": 1
+    },
+    {
+      "businessName": "Roses Are People Too",
+      "city": "Absecon",
+      "state": "NJ",
+      "address": "9276 People Flower Rd",
+      "id": 2
+    },
+    {
+      "businessName": "Wilt",
+      "city": "San Francisco",
+      "state": "CA",
+      "address": "100 Posh Ave",
+      "id": 3
+    },
+    {
+      "businessName": "Love-me-not",
+      "city": "Nashville",
+      "state": "TN",
+      "address": "66 Heartbreak Pl",
+      "id": 4
+    },
+    {
+      "businessName": "Rodney's Drug Front",
+      "city": "Atlantic City",
+      "state": "NJ",
+      "address": "212 Don't Look Dr",
+      "id": 5
+    }
+  ]
+}
